@@ -5,7 +5,8 @@
       {
         "appID": "M932RC5J66.com.ringcentral.rcvideo",
         "paths": [
-          "*"
+          "/join/*",
+          "/"
         ]
       }
     ]
